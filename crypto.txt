@@ -1,8 +1,20 @@
 CRYPTOGRAPHY
 
 #Decoding 1
+#1
 Hex to ASCII
+73 69 72 61 75 6c 6f
+s i r a u l o
+#2
 Octal to ASCII, Hex to ASCII
+067 062 040 067 065 040 067 064 040 066 070 040 067 063 040 066 143 040 066 146 040 066 061 040 066 145 040 063 061 040 063 064 040 063 061 040 063 064
+Flag : r u t h s l o a n 1 4 1 4
+#3
+Base64 to Text, Hex to ASCII and ASCII to text
+MzEgMzQgMzEgMjAgMzEgMzQgMzQgMjAgMzEgMzQgMzEgMjAgMzEgMzUgMzUgMjAgMzEgMzQgMzUgMjAgMzEgMzYgMzMgMjAgMzAgMzYgMzUgMjAgMzAgMzYgMzIgMjAgMzAgMzYgMzE= Base 64 format
+31 34 31 20 31 34 34 20 31 34 31 20 31 35 35 20 31 34 35 20 31 36 33 20 30 36 35 20 30 36 32 20 30 36 31 HEX format
+1 4 1   1 4 4   1 4 1   1 5 5   1 4 5   1 6 3   0 6 5   0 6 2   0 6 1 ASCII format
+adames521 Text format
 
 #Decoding 2
 Cesar Cipher -jr tbggn fuvsg yrsg, we gotta shift left
